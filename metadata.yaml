@@ -1,0 +1,33 @@
+_repo: Callista---a-Tale-of-the-Third-Century_30664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2009-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Tunisia -- Church history -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: 'Callista : a Tale of the Third Century'
+url: http://www.gutenberg.org/ebooks/30664
